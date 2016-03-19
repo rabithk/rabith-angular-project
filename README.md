@@ -7,7 +7,7 @@ the foundation for most of the documentation samples and potentially a good star
 
 Clone this repo into new project folder (e.g., `my-proj`).
 ```bash
-$ git clone  https://github.com/angular/quickstart  my-proj
+$ git clone  https://github.com/rabithk/rabith-angular-project.git  my-proj
 $ cd my-proj
 ```
 
